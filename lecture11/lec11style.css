@@ -1,0 +1,36 @@
+
+
+
+p{
+color:red;
+}
+
+#paraleft {
+	  text-align: left;
+
+	
+}
+
+#pararight {
+	  text-align: right;
+
+	
+}
+#paracenter {
+	  text-align: center;
+
+	
+}
+#parajustify {
+	  text-align: justify;
+
+	
+}
+
+h1{
+	font-family: Arial,Impact,Georgia;
+	 font-style: italic;
+	 font-variant: small-caps;
+	 line-height:300%;
+	
+}

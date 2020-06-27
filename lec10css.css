@@ -1,0 +1,59 @@
+*{
+	 text-align:center;
+	 color:blue;
+	
+}
+
+p {
+	color:green;
+	font-size: 50px;
+	
+}
+
+#para1
+{
+	
+	text-align:center;
+	color:red;
+	font-size: 20px;
+}
+
+.center {
+	
+	text-align:center;
+	color:brown;
+	
+}
+
+.large {
+	
+	font-size:100px;
+}
+
+p.center
+{
+	text-align:center;
+	color:yellow;
+	
+}
+/*
+h1 {
+  text-align: center;
+  color: red;
+}
+
+h2 {
+  text-align: center;
+  color: red;
+}
+
+p {
+  text-align: center;
+  color: red;
+}
+
+h1, h2, p {
+  text-align: center;
+  color: red;
+}
+*/
