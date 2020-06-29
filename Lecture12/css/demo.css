@@ -1,0 +1,18 @@
+div {
+background:red;
+height:100px;
+width:45%;
+display: inline-block;
+}
+span {
+background:green;
+height:50px;
+width:75px;
+display: inline-block;
+}
+
+p {
+background:yellow;
+height:100px;
+width:200px;
+}
