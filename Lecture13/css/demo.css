@@ -1,0 +1,16 @@
+div {
+background:red;
+height:100px;
+width:45%;
+}
+span {
+background:green;
+height:50px;
+width:75px;
+}
+
+p {
+background:yellow;
+height:100px;
+width:200px;
+}
