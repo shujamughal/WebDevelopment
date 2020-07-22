@@ -1,0 +1,36 @@
+div li {
+	
+	list-style: none;
+}
+
+a:link,a:visited {
+	
+	text-decoration:none;
+	background-color:green;
+	border: 1px solid blue;
+	color:black;
+	display:block;
+	width: 200px;
+	margin-bottom: 1px;
+}
+a:hover,a:active {
+	
+	background-color:red;
+	color:white;
+}
+
+div li:nth-child(3) {
+	
+	font-size:28px;
+}
+
+section div:nth-child(odd)
+{
+	background-color:gray;
+}
+
+section div:nth-child(4):hover
+{
+	background-color:green;
+	cursor:pointer;
+}

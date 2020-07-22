@@ -1,0 +1,33 @@
+p.big {
+	
+	font-size:36px;
+	
+}
+
+/*child selector*/
+
+
+
+/*Descendant selector*/
+
+div p 
+{
+	background:blue;
+	
+}
+
+div > p
+{
+	background:green;
+	
+}
+
+.colored{
+	
+	color:yellow;
+}
+
+.colored p {
+	background:pink;
+	
+}
