@@ -1,0 +1,2 @@
+aliObj.sayAoA();
+baigObj.sayHi();
